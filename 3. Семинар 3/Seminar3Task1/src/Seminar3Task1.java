@@ -34,14 +34,14 @@ public class Seminar3Task1 {
 
     public static void main(String[] args) {
         int[] arrayStart = {9, 8, 7, 6, 5, 4, 5, 8, 6};
-        System.out.println("Исходный массив:");
+        System.out.println("SourceArray:");
         System.out.println(Arrays.toString(arrayStart));
 
         int low = 0;
         int high = arrayStart.length - 1;
 
         sort(arrayStart, low, high);
-        System.out.println("Отсортированны массив:");
+        System.out.println("SortArray:");
         System.out.println(Arrays.toString(arrayStart));
     }
 }

@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Необходимо найти длину наибольшей общей последовательности двух наборов
+//РќРµРѕР±С…РѕРґРёРјРѕ РЅР°Р№С‚Рё РґР»РёРЅСѓ РЅР°РёР±РѕР»СЊС€РµР№ РѕР±С‰РµР№ РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕСЃС‚Рё РґРІСѓС… РЅР°Р±РѕСЂРѕРІ
 
 class Seminar3Task2 {
     public static void main(String args[]) {
@@ -53,7 +53,7 @@ class Seminar3Task2 {
         }
         System.out.println("max length = " + max);
         for (int i = 0; i < res.size(); i++) {
-            if (res.get(i).size() == max) System.out.println("СommArray " + res.get(i));
+            if (res.get(i).size() == max) System.out.println("CommArray: " + res.get(i));
         }
     }
 }
