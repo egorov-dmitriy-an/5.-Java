@@ -1,5 +1,5 @@
 import java.util.Arrays;
-// Быстрая сортировка
+// Р‘С‹СЃС‚СЂР°СЏ СЃРѕСЂС‚РёСЂРѕРІРєР°
 public class Seminar3Task1 {
 
     public static void sort(int[] array, int min, int max) {
