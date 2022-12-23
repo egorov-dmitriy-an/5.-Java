@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae19914-fd19-4db9-9d07-206c88845162" name="Changes" comment="Seminar 5">
+    <list default="true" id="3ae19914-fd19-4db9-9d07-206c88845162" name="Changes" comment="Seminar 5 edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5. Семинар 5/Волновой алгоритм.md" beforeDir="false" afterPath="$PROJECT_DIR$/5. Семинар 5/Волновой алгоритм.md" afterDir="false" />
     </list>
@@ -47,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671811390570</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seminar 5 edit">
+      <created>1671812400594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671812400594</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 5" />
+    <MESSAGE value="Seminar 5 edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 5 edit" />
   </component>
 </project>
